@@ -11,7 +11,7 @@ public class DemoApplication {
 
 	@GetMapping("/")
 	public String home() {
-		return "Hello World!";
+		return "Radhia work Spring boot dockerized";
 	}
 
 	public static void main(String[] args) {
